@@ -119,11 +119,6 @@ a {
   margin-top: 7rem;
 }
 
-.navBar button {
-  background: transparent;
-  border: none;
-}
-
 .about__content {
   padding: 8rem 40px;
   display: flex;
